@@ -1,4 +1,4 @@
-FROM javier/externals2
+FROM javierggt/externals
 
 LABEL maintainer="Javier Gonzalez <jgonzalez@icecube.wisc.edu>"
 
